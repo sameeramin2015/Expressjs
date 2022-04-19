@@ -1,0 +1,15 @@
+STEP 1
+Make new folder
+cd my-app
+
+STEP 2
+npm init -y > initialize nodejs app and skill all questions
+npm i express body-parser cors
+ 
+STEP 3
+create index.js
+
+now read to programm
+
+
+npm i axios cheerio
